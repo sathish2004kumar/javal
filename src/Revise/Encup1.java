@@ -1,4 +1,6 @@
-package Week5;
+package Revise;
+
+
 
 class Account{
 	private String name;
@@ -15,7 +17,7 @@ class Account{
 			return acnumber;
 		}
 }
-		public class Encup{
+		public class Encup1{
 			public static void main(String[] args) {
 				Account A1 = new Account("sathish",1234567L);
 				Account A2 = new Account("alagu",3456787L);
